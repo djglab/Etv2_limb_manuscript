@@ -5,11 +5,11 @@
 |  | Figures | Link | 
 | --- | --- | --- | 
 |  A plot of 5,178 conserved (>0.8) ATAC-seq intervals sorted by the fold change (FC) between HL Etv2-EYFP+ versus Etv2CKO samples | Fig. 3a | [R](https://colab.research.google.com/github/gongx030/Etv2_limb_manuscript/blob/main/Conservation_limb_ATAC_seq_new_data.ipynb) |
-| PCA of different cell populations obtained from limb buds | Fig. 3b | [R](https://github.com/gongx030/Etv2_limb_manuscript/blob/main/chromVAR_limb_ATAC_seq_new_data_CH.ipynb) |
-| The heatmap of transcription factor (TF) deviations showed the variations of TF associated chromatin accessibility in each sample | Fig. 3c| [R](https://github.com/gongx030/Etv2_limb_manuscript/blob/main/chromVAR_limb_ATAC_seq_new_data_CH.ipynb) |
+| PCA of different cell populations obtained from limb buds | Fig. 3b | [R](https://colab.research.google.com/github/gongx030/Etv2_limb_manuscript/blob/main/chromVAR_limb_ATAC_seq_new_data_CH.ipynb) |
+| The heatmap of transcription factor (TF) deviations showed the variations of TF associated chromatin accessibility in each sample | Fig. 3c| [R](https://colab.research.google.com/github/gongx030/Etv2_limb_manuscript/blob/main/chromVAR_limb_ATAC_seq_new_data_CH.ipynb) |
 |ATAC-seq analysis of the ZRS region (chr5: 29,314,591 – 29,316,266) and the Lmbr1 gene promoter region (chr5:29,377,922-29,379,008). Locations of putative ETS and ETV binding sites are indicated at the bottom. | Fig. 3d | [ZRS](https://genome.ucsc.edu/s/ndsouza/ZRS_region) <br> [Lmbr1_Promoter](https://genome.ucsc.edu/s/ndsouza/LMBR1_promoter) |
-| Heatmap showing nucleosome free, mono, di-nucleosome region (shown as white) and nucleosome occupied region (shown as blue) within 1kb up- and down-stream of TF binding sites | Fig. 3e | [R](https://github.com/gongx030/Etv2_limb_manuscript/blob/main/FE_Heatmap_Etv2_limb_v1.ipynb) |
-| Limb enhancer peaks present in the each group from the Limb Enhsnacer Genie and Limb p300 ChIP-seq data | Fig. 3f | [R](https://github.com/gongx030/Etv2_limb_manuscript/blob/main/FE_Heatmap_Etv2_limb_v1.ipynb) |
+| Heatmap showing nucleosome free, mono, di-nucleosome region (shown as white) and nucleosome occupied region (shown as blue) within 1kb up- and down-stream of TF binding sites | Fig. 3e | [R](https://colab.research.google.com/github/gongx030/Etv2_limb_manuscript/blob/main/FE_Heatmap_Etv2_limb_v1.ipynb) |
+| Limb enhancer peaks present in the each group from the Limb Enhsnacer Genie and Limb p300 ChIP-seq data | Fig. 3f | [R](https://colab.research.google.com/github/gongx030/Etv2_limb_manuscript/blob/main/FE_Heatmap_Etv2_limb_v1.ipynb) |
 
 ### Figure 5
 |  | Figures | Colab link | 
