@@ -14,7 +14,7 @@
 ### Figure 5
 |  | Figures | Colab link | 
 | --- | --- | --- | 
-| Overexpression of Etv2 resulted in depletion of nucleosomes at the ZRS. HL E9.5 and E10.5 HL EYFP+ tracks show the ATAC-seq signals of E9.5 hindlimb and Etv2-EYFP+ samples from E10.5 HL, respectively. | Fig. 5I | [ZRS](https://genome.ucsc.edu/s/ndsouza/OCC_Lmbr1) <br> [Lmbr1_Promoter](https://genome.ucsc.edu/s/ndsouza/OCC_Lmbr1_Promoter) |
+| Overexpression of Etv2 resulted in depletion of nucleosomes at the ZRS. HL E9.5 and E10.5 HL EYFP+ tracks show the ATAC-seq signals of E9.5 hindlimb and Etv2-EYFP+ samples from E10.5 HL, respectively. | Fig. 5I | [ZRS](https://genome.ucsc.edu/s/ndsouza/OCC_Lmbr1_updated) <br> [Lmbr1_Promoter](https://genome.ucsc.edu/s/ndsouza/OCC_Lmbr1_Promoter_Updated) |
 | The aggregated ATAC-seq Vplot of 1,302 Etv2 motif-centric region which ATAC-seq were significantly different (p-value < 0.1) between WT and Etv2 OE samples | Fig. 5j | [R](https://colab.research.google.com/github/gongx030/Etv2_limb_manuscript/blob/main/Etv2_vplots_limb.ipynb) |
 
 ## Supplementary Figures
