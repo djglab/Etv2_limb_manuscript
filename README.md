@@ -1,4 +1,9 @@
-# Etv2_limb_manuscript
+### The code for the manuscript:
+
+# Etv2 regulates chromatin status of the developmental enhancer to initiate Shh expression in the limb bud
+
+Naoko Koyano-Nakagawa, Wuming Gong, Satyabrata Das, Joshua W. M. Theisen, Tran B. Swanholm, Daniel Van Ly, Nikita Dsouza, Bhairab N. Singh, Hiroko Kawakami, Samantha Young, Katherine Q. Chen, Yasuhiko Kawakami, and Daniel J. Garry 
+
 ## Main Figures
 
 ### Figure 3
